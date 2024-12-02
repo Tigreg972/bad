@@ -1,9 +1,9 @@
 Historique des versions :
 ○ v1 :
-Tous les cas d’utilisation sont implémentés
+ Tous les cas d’utilisation sont implémentés
  Utilisation du versioning
  Utilisation d’un code HTTP et d’un message de retour
-appropriés
+ appropriés
  Utilisation des f-strings
  v2 :
  Gestion des erreurs avec try / except
